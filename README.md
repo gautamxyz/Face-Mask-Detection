@@ -1,4 +1,4 @@
-# spicyChaiBiskut-MaskDetector-Megathon
+# Face Mask Detector
 
 A Covid mask detector built using MTCNN and MobileNetV2.
 
@@ -7,7 +7,7 @@ A Covid mask detector built using MTCNN and MobileNetV2.
 clone/download and unzip file
 
 ```
-cd spicyChaiBiskut
+cd "Face Mask Detection"
 pip install -e 
 python3 detect-mask-video.py-i "path/to/input.mp4" -v 
 "/outputdirectory/csvname.csv" -o "/outputdirectory/vidname.mp4

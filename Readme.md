@@ -1,2 +1,2 @@
-# SpicyChaiBiskut Megathon Submission - Covid Mask Detector 
+# Face Mask Detection
 
